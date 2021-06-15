@@ -1,0 +1,1 @@
+document - .doc or .docx file with information about planned changes, time measurements, etc.
